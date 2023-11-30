@@ -3,7 +3,7 @@ UserProfiles Web App
 Welcome to UserProfiles, a dynamic web application built with Next.js that allows users to create and manage their personal profiles seamlessly.
 
 Preview
-<img width="426" height="240" alt="Screenshot 2023-07-09 at 10 57 29" src="https://github.com/BruceWayneX/Movie-Website-v1.io/blob/main/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif">
+<img width="426" height="240" alt="Screenshot 2023-07-09 at 10 57 29" src="https://github.com/BruceWayneX/Web-Project-NextJs/blob/master/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif">
 
 
 Features
